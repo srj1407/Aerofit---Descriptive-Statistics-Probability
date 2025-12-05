@@ -86,11 +86,8 @@ This study helps understand:
 
 ## 🛠️ Tools & Libraries
 - Python  
-- PandAS  
+- Pandas  
 - NumPy  
 - Matplotlib  
 - Seaborn  
 
----
-
-## 📁 Repository Structure
